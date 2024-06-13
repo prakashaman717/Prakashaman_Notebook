@@ -4,50 +4,47 @@ title: About
 permalink: /about/
 ---
 
-I am futur PhD student in marine ecology and physiology science in PutnamLAb. My project will be based on Genetic, functional and reproductive diversity of Pocillopora in the lagoon of Mo’orea. 
+I am Masters student in marine biology department in the lab of Regulation of Embryonic Development supervised by Prof. Smadar Ben-Tabou de Leon. My project will be based on Genetic, functional and developmental dynaimcs of Sea Urchins *P.Lividus* and also trying to culture and breed urchins in the lab. 
  
 
 ### More Information
 
-https://pierrickharnay.github.io/PierrickHarnay_Notebook/
+https://prakashaman717.github.io/Prakashaman_Notebook/
 
 ### Contact me
 
-[pierrick.harnay@gmail.com](mailto:Pierrick_harnay@uri.com)
+[prakashaman717@gmail.com](mailto:Pierrick_harnay@uri.com)
 
 
-## <center>PIERRICK E. HARNAY</center><center>Department of Biological Sciences</center><center>University of Rhode Island</center><center>120 Flagg Road, Kingston RI 02881</center>### EDUCATION2021-2022 | **Université Paris Sorbonne** | **École Pratique des Hautes Études (EPHE)**   
-	- Master degree 2  
-		- Biodiversity and Environment, Integrative Master of 		  Global Health and Ecology with honours   
-		- Course Locations: Sorbonne (Paris), CNRS (Montpellier), and CRIOBE
-		  (Perpignan France and Mo’orea French Polynesia)  
+## <center>Aman Prakash</center>
+<center>Department of Marine Biology</center>
+<center>University of Haifa, </center>
+<center>Mount Carmel, Haifa, Israel </center>
+
+
+### EDUCATION
+2023-2025 | **University of Haifa** | **Leon H. Charney School of Marine Sciences**| **Department of Marine Biology**   
+	- Master degree in **Marine Biology**   
+		- Developmental Biology, Developemental Dynamics, 		Marine Ecology, Climate Change,    Marine Conservation, Saptial Gene Expression, Physical and Biochemical Oceanography, Marine Microbiology
+		 
 		  
-2019-2020 | **Université Paris Sorbonne** | **EPHE**   
-	- Master degree 1   
-		- Biodiversity and Environment, Integrative Master of Global Health 		  and Ecology with honours   
-		- Course Locations: Sorbonne (Paris), CNRS (Montpellier, Dinard), 		  and CRIOBE (Perpignan)  
+2019-2023 | **Sam Higginbottom University of Agriculture, Technology and Sciences,India** | **Jacob Institute of Biottechnology and Bioengineering** | **Department of Molecular and Cellular Engineering**   
+	- Bachelor's Degree in **Biotechnology**   
+		- Genetic Engineering, Plant & Animal Bioteechnology, Microbiology, Bioprocess and Biocehmical Engineering, Biochemistry, Bioinformatics     
+		- 2nd Ranker and Passed with Distinction   
 		
-2018-2019 | **Université de Lorraine** | **Institut Universitaire Technologique Nancy- Brabois**  
-	- Professional Bachelor degree   
-		- Continental Aquaculture and Aquariology with honours   
-		
-2016-2017 | **Université de Montpellier** | **Continuing Education Department**   
-	- Technical Specialist Diploma (DU)  
-		- Aquaculture   
-		
-2013-2016 | **Lycée Jeanne Antide**   
-*2015-2016* Certificate of competence for the sale of non-domestic animals of captive wildlife (List E5-E7, TCVA)   
-*2013-2015* Professional baccalaureate Technician Sales Consultant in Pet Shop   
-### Professional Experience
-2022 | ***Universiy of Rhode Island - Rhode Island, USA***
-		- Supervisors - Dr. Hollie Putnam
-	- Effects of acute thermal stress and acute thermal priming on larvae of 	  the reef building coral *Pocillopora acuta*
-	- Genetic, functional and reproductive diversity of *Pocillopora sp.* in 	  the lagoon of Mo’orea.
 
-2021-2022 | ***Oregon State University – Tetiaroa, French Polynesia***
-		- Research Assistant - *Impacts of rat eradication on coral reef health*
-		- Supervisors - Drs. Rebecca Vega Thurber Hannah Epstein
-	- Coral surveys via transect, coral and water sampling for bacterial 	  analysis, multivariate and generalized linear statistical modeling in 	  R
+
+### Professional Experience
+Jan-2023- Aug-2023 | ***Directorate of Research (E&T),SHUATS,India***
+		- Supervisors - Dr. Vijay Tripathi  	     
+	Topic :-  Isolation and Characterization  of Plant Growth Promoting Rhizobacteria under drought stress. | Skills :- Bacterial PGPR Test, Handling, Culturing,PCR, DNA Isolation, Sequecing, Bioinformatics
+.
+
+June-2022-August-2022 | ***National Institute of Plant Genome Research, New Delhi, India***
+		- Intern - *Plant Metabollic Engineering*
+		- Supervisors - Dr. Ashutoush Pandey
+	-  	  Genetic Engineering, Cloning, PCR, CRISPR/Cas9
 	
 2020-2021 | ***Tetiaroa Society– Tetiaroa, French Polynesia***
 		- Ranger 
@@ -68,20 +65,25 @@ https://pierrickharnay.github.io/PierrickHarnay_Notebook/
 	Coral Farmer   
 	- Supervisors – Mr. Boris Rota   
 	- Coral fragmentation, coral husbandry, coral health, species selection   
-### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
+
+### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
 - Harnay P, Huffmyer A, Fellous A, Hedouin L, Putnam HM (In Preparation) Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta*   
 - Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta* - Master 2 Degree Thesis Report   
 - Évaluation du blanchissement corallien sur les coraux des lagons de Polynésie Française lors de l’épisode 2019 – Master 1 Degree Thesis Report   
 - Effet de l’acidification des océans sur les coraux scléractiniaires – Bachelor Degree Thesis Report   
-	   ### SCHOLARSHIPS AND AWARDS
+	   
+### SCHOLARSHIPS AND AWARDS
 - Master degree 1 and 2 Awarded with Honors   
 - Scholarships for academic excellence are not given in France, but are income based   
 - Technical Specialist Diploma (DU) Awarded with Honors   
-### TEACHING AND EDUCATION
+
+### TEACHING AND EDUCATION
 - Université de Lorraine 
 	- Coral Reef Informational Presentations to Bachelor students   
 	- Coral Reef Informational Presentations to Highschool students 
-- French/English Translation of educational materials in person and online   ### CONFERENCE
+- French/English Translation of educational materials in person and online   
+
+### CONFERENCE
 - Benthic Ecology Meeting - NH, Portsmouth, USA 
 	- Effects of thermal stress and thermal priming on larvae of the reef 	  building coral *Pocillopora acuta*
 
@@ -89,4 +91,6 @@ https://pierrickharnay.github.io/PierrickHarnay_Notebook/
 - PADI Advanced Open Water SCUBA Diving
 - Permis Mer – French Boating License for Coastal Waters
 - Languages – French (Native), English (Fluent oral and written)
-- Software – R/Rstudio, QGIS, Microsoft Excel/Word/Powerpoint, Adobe Photoshop, GitHub
+- Software – R/Rstudio, QGIS, Microsoft Excel/Word/Powerpoint, Adobe Photoshop, GitHub
+
+
