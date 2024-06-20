@@ -10,11 +10,9 @@ description: Masters Student @Univeristy of Haifa
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: "c:\Users\User\Documents\GitHub\Prakashaman_Notebook\images\Aman.jpg"
-
 #
 # Flags below are optional
 #
-
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
@@ -30,8 +28,6 @@ footer-links:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube:  # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-
-
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
@@ -51,7 +47,6 @@ baseurl: "/Prakashaman_Notebook"
 
 #
 # !! You don't need to change any of the configuration flags below !!
-#
 
 permalink: /:title/
 
