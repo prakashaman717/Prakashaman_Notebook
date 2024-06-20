@@ -9,7 +9,7 @@ name:Aman Prakash
 description:Masters Student @Univeristy of Haifa
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "C:\Users\user\OneDrive\Documents\GitHub\Prakashaman_Notebook\images\Aman"
+avatar: "c:\Users\User\Documents\GitHub\Prakashaman_Notebook\images\Aman.jpg"
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: "C:\Users\user\OneDrive\Documents\GitHub\Prakashaman_Notebook\images\Ama
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:prakashaman717@gmail.com
-  facebook:Aman Prakash
+  email: prakashaman717@gmail.com
+  facebook: Aman Prakash
   flickr:
-  github:prakashaman717
-  instagram:theamanprakashofficial
-  linkedin:Aman Prakash
+  github: prakashaman717
+  instagram: theamanprakashofficial
+  linkedin: Aman Prakash
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter:theofficialaman
+  twitter: theofficialaman
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube:  # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
