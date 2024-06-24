@@ -87,7 +87,7 @@ C. ***[Detection of the Probe]***
 >
 >Add water to 1 L
 
-# 10X PBS
+# 10X PBS Buffer
 
 80g NaCl
 
