@@ -13,9 +13,9 @@
 POST_DATE=$(date '+%Y-%m-%d')
 MD_LINE="---"
 LAYOUT="layout: post"
-TITLE="title: "
-DATE_LINE="date: "
-CATEGORIES="categories: "
+TITLE="In Situ Hybridization: "
+DATE_LINE="June 20: "
+CATEGORIES="Posts: "
 TAGS="tags: "
 
 # Ask user for input
@@ -23,7 +23,7 @@ echo "Enter title:"
 read PHRASE
 echo "You entered $PHRASE"
 
-echo "Enter categories: (Analysis, Goals, Processing, Protocols)"
+echo "Enter categories: (Protocols)"
 read PHRASE2
 echo "You entered $PHRASE2"
 
