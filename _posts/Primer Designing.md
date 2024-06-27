@@ -44,5 +44,5 @@ Primer length: 18-25 nucleotides, Melting temperature (Tm): 50-60°
     Step 5: Do alignment by ClustalW and save the file.
 
     Step 6: Now go the phylogeny option and open the saved file and we will get the tree.
-           My tree is pasted below and the additional informations (if required) are atatched in the Git hub :- 
+           My tree is pasted below and the additional informations (if required) are atatched in the Git hub :- [alt text] [https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Assignment%20Bhaiya%202.png}
 
