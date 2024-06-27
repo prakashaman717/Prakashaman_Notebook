@@ -34,10 +34,15 @@ Primer length: 18-25 nucleotides, Melting temperature (Tm): 50-60°
     # Phylogeny Tree Construction
 
     Step 1: For constructing the phylogeny tree we need to download the "Mega 11."
+
     Step 2: Prepare Your Sequence Data
+
     Step 3: Click on Align
+
     Step 4: Select create a new alignment and copy paste your FASTA sequences that you want to align. 
+
     Step 5: Do alignment by ClustalW and save the file.
+
     Step 6: Now go the phylogeny option and open the saved file and we will get the tree.
            My tree is pasted below and the additional informations (if required) are atatched in the Git hub :- 
 
