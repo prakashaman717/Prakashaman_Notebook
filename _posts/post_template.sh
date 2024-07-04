@@ -13,9 +13,9 @@
 POST_DATE=$(date '+%Y-%m-%d')
 MD_LINE="---"
 LAYOUT="layout: post"
-TITLE="In Situ Hybridization: "
-DATE_LINE="June 20: "
-CATEGORIES="Posts: "
+TITLE="title: "
+DATE_LINE="date:  "
+CATEGORIES="categories: "
 TAGS="tags: "
 
 # Ask user for input
