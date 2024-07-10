@@ -26,5 +26,4 @@ Steps for Primer Designing for QPCR
 
 In the context of the gene and the reference genome listed above I followed the protocols and I got the result pasted below :- 
 
-![](Aspose.Words.2a8a4a55-5d11-42fc-8132-d7fafe313f5c.001.png)
-
+![alt text](qpcr.png)
