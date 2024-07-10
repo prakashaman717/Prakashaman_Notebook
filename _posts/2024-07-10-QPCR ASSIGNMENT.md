@@ -25,5 +25,7 @@ Steps for Primer Designing for QPCR
 - Always run the normal PCR to validate our primer other the results will not be good and also we can’t trust the further results. 
 
 In the context of the gene and the reference genome listed above I followed the protocols and I got the result pasted below :- 
-
+ 
 ![alt text](qpcr.png)
+
+In this way we can design the primers fore QPCR.
