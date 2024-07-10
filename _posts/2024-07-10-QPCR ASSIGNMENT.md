@@ -26,6 +26,7 @@ Steps for Primer Designing for QPCR
 
 In the context of the gene and the reference genome listed above I followed the protocols and I got the result pasted below :- 
 
-[](qpcr-1.png)
+<img width="761" alt="Screenshot 2024-07-10 at 3 51 42 PM" src="https://github.com/prakashaman717/Prakashaman_Notebook/assets/171917083/4ee48ff5-fe30-474f-93e9-fefe03531aa6">
+
 
 In this way we can design the primers fore QPCR.
