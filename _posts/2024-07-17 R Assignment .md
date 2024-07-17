@@ -11,7 +11,7 @@ In order to the assigned work for the assignment follwing data and methods were 
 1. Data :- Photsurvery Meta Data (Unorganised),Photosurvey Processed Data
 2. Source :- Assigned and Moodle(Uploaded), Collected at Moris Kahn Research Centre,Sdot Yam, Israel
 3. Coding Platform :- Mac Down 
-4. Code Source :- Methods ggplot Exerice R (Research Methods Course, Dr. Maya Lazar,Head,Bioinformatics Unit,Haifa Univerisity)
+4. Code Source :- Methods ggplot Exerice R (Research Methods Course, Dr. Maya Lalzar,Head,Bioinformatics Unit,Haifa Univerisity)
 5. Software :- R and R Visual Studio (V 4.4.1)
 
 
@@ -95,3 +95,45 @@ Step 10 :- Now we will do the test difference in coverage levels.
  Results :- 
 
   ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Krushal%20Walk%20Wali.png)
+
+Step 11 :- Now in order to do the co-relations or relatedness between coverage by different groups use the following code :- 
+
+	library(Hmisc)
+	str(Photosurvey)
+	# variables 10 to 22 have the measurements
+	corrs=rcorr(as.matrix(Photosurvey[0:5 ,10:22]), type="spearman")
+ Results :- 
+  ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Variables.png)
+
+Step 12 :- We need a function that will take the square matrix and turn it to long format.
+
+	flattenCorrMatrix <- function(cormat, pmat) {
+  	ut <- upper.tri(cormat)
+  	data.frame(row = rownames(cormat)[row(cormat)[ut]],column = rownames(cormat)[col(cormat)[ut]],cor  =(cormat)[ut],p = pmat[ut])}
+
+Step 13 :- Now we apply this function to our data.
+
+	corrs_flat=flattenCorrMatrix(corrs$r, corrs$P)
+
+Now, Add p value adjustment using the Benjamini-Hochber method (BH)
+
+	corrs_flat$p.adj=p.adjust(corrs_flat$p, "BH")
+
+Step 14 :- Now, write.csv(corrs_flat, "Alage.csv").
+
+Result :- 
+
+ ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Algae%20CSV.png)
+
+Step 15 :- Now we will plot our correlation of interest e.g., Algae and live coverage
+	
+ 	str(Photosurvey)
+	ggplot(Photosurvey, aes(x=Other, y=Algae))+geom_point()+ geom_smooth(method='lm')+ theme_light()
+
+ Results :- 
+ 
+  ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Alage%20vs%20Others.png)
+ 
+
+
+
