@@ -71,3 +71,27 @@ Results :-
 
 ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Annova%20Table.png)
 
+Step 8 :- We will examine the sampler and try to make it more clear.
+
+	ggplot(Photosurvey, aes(x=site_depth, y=Other))+ geom_boxplot(outlier.shape = NA)+ geom_point(aes(color=as.factor(depth)),position=position_jitter(width=0.2))+theme_light()
+
+Results :- 
+
+![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Rplot02.png)
+
+
+Step 9 :- Now we will do the test homogeneity of variance.
+
+	bartlett.test(Photosurvey$Other~Photosurvey$site_depth)
+ 
+ Results :- 
+
+ ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Homogenity%201.png)
+
+Step 10 :- Now we will do the test difference in coverage levels.
+
+	kruskal.test(Other~site_depth, data=Photosurvey)
+ 
+ Results :- 
+
+  ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Krushal%20Walk%20Wali.png)
