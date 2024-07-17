@@ -44,7 +44,7 @@ Step 6 :- Now, we will do the different kinds of test:-
    (i) Test homogeneity of variance with Others and Site
 
 		bartlett.test(Photosurvey$Other~Photosurvey$site)
-Results :-
+Results :- ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Plot%20Result%201.png)
 
   (ii) Test difference in Others site with photosurvey.
 
