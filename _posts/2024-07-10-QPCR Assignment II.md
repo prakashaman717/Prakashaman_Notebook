@@ -29,7 +29,7 @@ Finally, we performed quantification of gene expression. Absolute quantification
 |-------|------|------|-------|-------|------|-------|-------------|
 | RQ    | 0.72 | 0.94 | 1.17 | 0.70  | 1.03 | 0.69  | 0.32        |
 
-![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/QPCR%20TABLE%201.png)
+![](/Users/amanprakash/Documents/GitHub/Prakashaman_Notebook/images/QPCR Table 1.png)
 
 
 
