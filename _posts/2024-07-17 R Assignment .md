@@ -52,6 +52,7 @@ Results :-
 
 		kruskal.test(Other~site, data=Photosurvey)
 Results :- 
+
 ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Plot%20Result%202.png)
   (iii) Now let's moove to season and will plot a boxplot with it.
 
