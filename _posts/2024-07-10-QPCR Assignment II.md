@@ -32,5 +32,4 @@ Finally, we performed quantification of gene expression. Absolute quantification
 ![alt text](<QPCR TABLE 1-1.png>)
 
 
-
-Only 2 genes that have the graph more than 1 can be quoted as the upregulated genes whetheras other are not considered as such. CDC42 and VEGF were upregulated rest were not.This is the analysis result.
+Only 2 genes that have the graph more than 1 can be quoted as the upregulated genes whetheras other are not considered as such. CDC42 and VEGF were upregulated rest were not.This is the analysis result. We have only 2 upregulated ones.
