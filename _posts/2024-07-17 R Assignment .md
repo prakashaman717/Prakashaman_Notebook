@@ -67,3 +67,7 @@ Results :-
 Step 7 :- Now we will test for all factors together in non-parametric anova
 
 		library(ARTool)m=art(Other~site+as.factor(depth)+season+site*as.factor(depth)*season, data=Photosurvey)anova(m)
+Results :- 
+
+![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Annova%20Table.png)
+
