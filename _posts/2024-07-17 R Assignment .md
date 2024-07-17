@@ -49,7 +49,7 @@ Results :- ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/
   (ii) Test difference in Others site with photosurvey.
 
 		kruskal.test(Other~site, data=Photosurvey)
-Results :- 
+Results :- ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Plot%20Result%202.png)
   (iii) Now let's moove to season and will plot a boxplot with it.
 
 		ggplot(Photosurvey, aes(x=season, y=Other, fill=site))+geom_boxplot(outlier.shape = NA)+geom_point(position=position_jitterdodge(jitter.width = 0.5), size=1)+theme_light()+facet_grid(.~depth)
