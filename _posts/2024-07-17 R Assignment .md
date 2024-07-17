@@ -37,19 +37,22 @@ Step 5 :- Now load the packages of the library(ggplot2) and make a box plot of i
 
 	library(ggplot2)ggplot(Photosurvey, aes(x=site, y=Other))+geom_boxplot(outlier.shape = NA)+ geom_point(aes(color=as.factor(depth)),position=position_jitter(width=0.2))+ theme_light()
 	
-Results:- ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/R-PLOT1.png)
+Results:- 
+![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/R-PLOT1.png)
 	
 Step 6 :- Now, we will do the different kinds of test:-
 
    (i) Test homogeneity of variance with Others and Site
 
 		bartlett.test(Photosurvey$Other~Photosurvey$site)
-Results :- ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Plot%20Result%201.png)
+Results :- 
+![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Plot%20Result%201.png)
 
   (ii) Test difference in Others site with photosurvey.
 
 		kruskal.test(Other~site, data=Photosurvey)
-Results :- ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Plot%20Result%202.png)
+Results :- 
+![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Plot%20Result%202.png)
   (iii) Now let's moove to season and will plot a boxplot with it.
 
 		ggplot(Photosurvey, aes(x=season, y=Other, fill=site))+geom_boxplot(outlier.shape = NA)+geom_point(position=position_jitterdodge(jitter.width = 0.5), size=1)+theme_light()+facet_grid(.~depth)
