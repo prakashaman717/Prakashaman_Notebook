@@ -37,14 +37,14 @@ Step 5 :- Now load the packages of the library(ggplot2) and make a box plot of i
 
 	library(ggplot2)ggplot(Photosurvey, aes(x=site, y=Other))+geom_boxplot(outlier.shape = NA)+ geom_point(aes(color=as.factor(depth)),position=position_jitter(width=0.2))+ theme_light()
 	
-Results:- ![](/Users/amanprakash/Documents/GitHub/Prakashaman_Notebook/images/R-Plot_1)
+Results:- ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/R-PLOT1.png)
 	
 Step 6 :- Now, we will do the different kinds of test:-
 
    (i) Test homogeneity of variance with Others and Site
 
 		bartlett.test(Photosurvey$Other~Photosurvey$site)
-Results :-
+Results :- ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Plot%20Result%201.png)
 
   (ii) Test difference in Others site with photosurvey.
 
