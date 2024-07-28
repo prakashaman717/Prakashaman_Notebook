@@ -21,4 +21,5 @@ They have a positive co-relation.So, I have selected both of them out of all.
 Barlet test was runned and got the following answer :- 
 ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Barlett%20Test.png)
 
-
+The graph between the Bryozoa and season was plotted with respective of both the sites: -
+![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Bryozo%20and%20Season%20and%20SITE.png)
