@@ -14,6 +14,7 @@ In order to the assigned work for the assignment follwing data and methods were 
 4. Code Source :- Methods ggplot Exerice R (Research Methods Course, Dr. Maya Lalzar,Head,Bioinformatics Unit,Haifa Univerisity)
 5. Software :- R and R Visual Studio (V 4.4.1)
 
+I have selected Bryoza and Cnadaria 
 
 Steps and Codes are as follows:- 
 

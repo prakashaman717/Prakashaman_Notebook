@@ -29,8 +29,6 @@ Finally, we performed quantification of gene expression. Absolute quantification
 |-------|------|------|-------|-------|------|-------|-------------|
 | RQ    | 0.72 | 0.94 | 1.17 | 0.70  | 1.03 | 0.69  | 0.32        |
 
-![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/_posts/QPCR%20TABLE%201-2.png)
-
 
 
 Only 2 genes that have the graph more than 1 can be quoted as the upregulated genes whetheras other are not considered as such. CDC42 and VEGF were upregulated rest were not.This is the analysis result.
