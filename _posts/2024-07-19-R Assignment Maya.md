@@ -53,7 +53,7 @@ ggplot(Photosurvey, aes(x=site, y=Bryozoa))+
   geom_point(aes(color=as.factor(depth)),position=position_jitter(width=0.4))+
   theme_light()
 
-# now test
+#now test
 
 #1. test homogeneity of variance
 
@@ -63,7 +63,7 @@ bartlett.test(Photosurvey$Bryozoa~Photosurvey$site)
 
 kruskal.test(Bryozoa~site, data=Photosurvey)
 
-# now let's moove to season
+#now let's moove to season
 
 ggplot(Photosurvey, aes(x=season, y=Bryozoa, fill=site))+
   geom_boxplot(outlier.shape = NA)+
@@ -71,13 +71,13 @@ ggplot(Photosurvey, aes(x=season, y=Bryozoa, fill=site))+
   theme_light()+
   facet_grid(.~depth)
 
-### now let's test for all factors together- non-parametric anova
+###now let's test for all factors together- non-parametric anova
 library(ARTool)
 m=art(Bryozoa~site+as.factor(depth)+season+site*as.factor(depth)*season, data=Photosurvey)
 anova(m)
 
 
-### let's examine the sampler....
+###let's examine the sampler....
 
 ggplot(Photosurvey, aes(x=site_depth, y=Cnidaria))+
   geom_boxplot(outlier.shape = NA)+
@@ -89,11 +89,12 @@ ggplot(Photosurvey, aes(x=site_depth, y=Cnidaria))+
 
 bartlett.test(Photosurvey$Bryozoa~Photosurvey$site_depth)
 
-#### what is the relatedness between coverage by different groups? we will do correlations
+###what is the relatedness between coverage by different groups? we will do correlations
 
 library(Hmisc)
 str(Photosurvey)
-# variables 10 to 22 have the measurements
+
+#variables 10 to 22 have the measurements
 
 corrs=rcorr(as.matrix(Photosurvey[0:5 ,10:22]), type="spearman")
 
@@ -117,7 +118,7 @@ corrs_flat$p.adj=p.adjust(corrs_flat$p, "BH")
 
 write.csv(corrs_flat, "Taxonomic_groups_spearman.csv")
 
-# now plot your correlation of interest e.g., my taxon of interest and live coverage
+#now plot your correlation of interest e.g., my taxon of interest and live coverage
 str(Photosurvey)
 
 ggplot(Photosurvey, aes(x=Bryozoa, y=Cnidaria))+
