@@ -16,6 +16,6 @@ In order to the assigned work for the assignment follwing data and methods were 
 I have selected Bryoza and Cnidaria becuase both are predominantly found together with each other and are sometimes symbotic.So, I analyzed two groups from the processed data and found that : -
 
 They have a positive co-relation.So, I have selected both of them out of all.
-![](Co-relation between Bryptha and Cnidaris)
+![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Co-relation%20between%20Bryptha%20and%20Cnidaris.png)
 
 
