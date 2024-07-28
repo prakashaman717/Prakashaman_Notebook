@@ -24,6 +24,15 @@ Barlet test was runned and got the following answer :-
 The graph between the Bryozoa and season was plotted with respective of both the sites: -
 ![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Bryozo%20and%20Season%20and%20SITE.png)
 
+Then after the co-relation graph was plotted between Cnadaria and Bryozoa :- 
+![](https://github.com/prakashaman717/Prakashaman_Notebook/blob/main/images/Cnadirri%20anad%20Bryozoa.png)
+
+
+
+
+
+
+
 The whole R script is copied below :- 
 
 
